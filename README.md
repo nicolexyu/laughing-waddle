@@ -1,3 +1,5 @@
+# Git Assignment - nicolexyu
+
 a. What is an issue?
 GitHub issue is an item that you can create in a repository to plan, discuss and track work.
 
